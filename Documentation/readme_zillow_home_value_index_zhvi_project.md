@@ -381,18 +381,14 @@ AVERAGEX(
 ## 📂 9. Repository Structure
 
 ```text
-📦 Zillow-ZHVI-PowerBI-Project
+📦 TEAM-4-ITC-DAT-1-
  ┣ 📂 Data
  ┃ ┗ 📜 Metro_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv   # Raw ZHVI CSV dataset
  ┣ 📂 Dashboard
- ┃ ┣ 📊 mini projcet631.pbix                                    # Main Power BI Desktop executable
- ┃ ┣ 📂 Report                                                  # Visual layouts & theme definitions
- ┃ ┣ 📄 DataModel                                               # Compressed VertiPaq engine model
- ┃ ┣ 📄 DiagramLayout                                           # Model view diagram coordinates
- ┃ ┗ 📄 Metadata / Settings / Version                           # Internal PBIX package descriptors
+ ┃ ┗ 📊 mini projcet631.pbix                                    # Main Power BI Desktop executable
  ┣ 📂 Documentation
- ┃ ┗ 📕 README_ZHVI_Project_20Pages.pdf                         # 20-Page Technical Documentation PDF
- ┗ 📜 README_Zillow_Home_Value_Index_ZHVI_Project.md            # GitHub Repository Documentation
+ ┃ ┗ 📕 Project Documentation — Zillow Home Value Index.pdf     # 20-Page Technical Documentation PDF
+ ┗ 📜 README.md                                                 # Main GitHub Repository Documentation
 ```
 
 ---
